@@ -1,0 +1,4 @@
+*.pyc
+runs/
+best_model/
+**__pycache__**
